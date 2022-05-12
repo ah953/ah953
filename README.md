@@ -1,5 +1,9 @@
-### Building an amazing next-generation NFT marketplace at Oceana👋
+### Working with cutting-edge technologies in Blockchain Industry👋
 
+Adept full-stack Blockchain Developer experience building high frequency trading strategies, security products, composing smart contracts for multiple value transfer scenarios(ICO Tokenomics, DEXES, DAOS).
+Extensive expertise in large system architecture development and administration, as well as network design and conﬁguration.
+
+I love to think algorithmically and solve problems with code. Interested in building startup foundations in the web3 decentralized creator economy. Enjoy building models and trading infrastructure in the crypto asset domain. Proficient in C++, JavaScript, Solidity.
 <!--
 **ah953/ah953** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
