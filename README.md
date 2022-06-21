@@ -1,4 +1,4 @@
-### Working with cutting-edge technologies in Blockchain Industry👋
+### Working with cutting-edge technologies at Oceana Market Protocol👋
 I love to think algorithmically and solve problems with code. Interested in building startup foundations in the web3 decentralized creator economy. Enjoy building models and trading infrastructure in the crypto asset domain. Proficient in C++, JavaScript, Solidity.
 <!--
 **ah953/ah953** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
