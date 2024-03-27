@@ -1,4 +1,4 @@
-### Architecture serves as a blueprint for any system!
+### Architecture serves as a blueprint for any system
 <!--
 **ah953/ah953** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
